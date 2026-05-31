@@ -1,5 +1,5 @@
 # JavDB
 
-[javdb.com](https://javdb.skin) official app
+[javdb.com](https://javdb.win) official app
 
 ## Downloads
